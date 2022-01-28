@@ -1,0 +1,30 @@
+1. fit_transform (sklearn.preprocessing.StandardScaler) làm gì?
+    - fit_transform dùng cho train_set, transform xài cho train_set hoặc test_set
+    - hàm này tới từ sklearn.preprocessing.StandardScaler dùng để chuẩn hóa (đưa về [0,1])
+    - đầu tiên nó fit, xong nó transfrom dữ liệu:
+        + fit (TÍNH): tính mean và variance của từng cột trong dataframe
+        + transform (TIỀN XỬ LÝ): tiến hành áp mean và var vừa tính dc từ dữ liệu train (thông qua fit) để chuẩn hóa cho từng cột của test_set/train_set 
+        + fit_transform: gộp 2 bước trên
+
+    - Lý do ko áp dc hàm fit (hay hàm có lquan tới từ fit) cho test data: vì hàm fit = hàm học, nếu nó fit/học trên
+test_set thì sẽ mất tính khách quan
+    
+    *LƯU Ý: fit và transform của StandardScaler khác so với fit & transform của Pipeline
+
+2. fit_transform (sklearn.pipeline.Pipeline) làm gì?
+    * đầu tiên, phải hiểu: Pipeline cấu thành từ nhiều "transformer" (VD: thanh preprocess_pipeline trong lab3)
+        - 1 transformer phải là 1 class bắt buộc có mothod: fit_transform() = fit() + transform()
+        - n-1 phần tử đầu trong pipeline bắt buộc phải là transformer (tức phải có hàm fit_transform())
+        - phần tử cuối cùng trong pipeline dc gọi là [final estimator]. final estimator này chỉ cần là class với mỗi method fit(). Thông thường, final estimator là 1 thuật toán gì đó phân lớp data sau n-1 bước tiền xử lý bằng "transformer" trước đó trong pipeline
+    
+    *Các method gọi trên pipeline:
+        - pipeline.fit(): áp từng transformer.fit_transform() trong pipeline lên dữ liệu. Sau khi n-1 bước, final_estimator.fit() sẽ dc gọi
+            + LƯU Ý: dù tên fit nhưng gọi tới fit_transform() của mỗi transformer
+            return: Pipeline 
+        - pipeline.transform(): áp từng transformer.transform() để biến đổi dữ liệu. Sau n-1 bước biến đổi, áp final_estimator.transform() (nếu có) lên dữ liệu mới đã qua n-1 bước biến đổi trước
+            return: ndarray of shape
+        - pipeline.predict: gọi tới từng transformer.transform(). Sau n-1 bước, gọi tới final_estimator.predict() (nếu có)
+        
+        - pipeline.fit_transform(): giống với pipeline.fit() ?
+            return: ndarray of shape
+

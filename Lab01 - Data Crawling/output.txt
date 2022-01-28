@@ -1,0 +1,93 @@
+"https://www.coursera.org/learn/advanced-data-science-capstone	Advanced Data Science Capstone	IBM	4.6	360 
+"	"https://www.coursera.org/learn/advanced-data-science-capstone	Advanced Data Science Capstone	IBM	4.6	361
+"
+"https://www.coursera.org/learn/applied-data-science-capstone	Applied Data Science Capstone	IBM	4.7	5,549 
+"	"https://www.coursera.org/learn/applied-data-science-capstone	Applied Data Science Capstone	IBM	4.7	5,583
+"
+"https://www.coursera.org/learn/applied-data-science-for-data-analysts	Applied Data Science for Data Analysts	Databricks	4.2	24 
+"	"https://www.coursera.org/learn/applied-data-science-for-data-analysts	Applied Data Science for Data Analysts	Databricks	4.2	24
+"
+"https://www.coursera.org/learn/build-data-science-team	Building a Data Science Team	Johns Hopkins University	4.5	3,184 
+"	"https://www.coursera.org/learn/build-data-science-team	Building a Data Science Team	Johns Hopkins University	4.5	3,187
+"
+"https://www.coursera.org/learn/code-free-data-science	Code Free Data Science	University of California San Diego	4.3	85 
+"	"https://www.coursera.org/learn/code-free-data-science	Code Free Data Science	University of California San Diego	4.3	86
+"
+"https://www.coursera.org/learn/competitive-data-science	How to Win a Data Science Competition: Learn from Top Kagglers	HSE University	4.7	1,100 
+"	"https://www.coursera.org/learn/competitive-data-science	How to Win a Data Science Competition: Learn from Top Kagglers	HSE University	4.7	1,100
+"
+"https://www.coursera.org/learn/data-science-course	A Crash Course in Data Science	Johns Hopkins University	4.5	7,681 
+"	"https://www.coursera.org/learn/data-science-course	A Crash Course in Data Science	Johns Hopkins University	4.5	7,698
+"
+"https://www.coursera.org/learn/data-science-ethics	Data Science Ethics	University of Michigan	4.8	596 
+"	"https://www.coursera.org/learn/data-science-ethics	Data Science Ethics	University of Michigan	4.8	597
+"
+"https://www.coursera.org/learn/data-science-for-business-innovation	Data Science for Business Innovation	EIT Digital  Politecnico di Milano	4.3	166 
+"	"https://www.coursera.org/learn/data-science-for-business-innovation	Data Science for Business Innovation	EIT Digital 	4.3	166
+"
+"https://www.coursera.org/learn/data-science-fundamentals-for-data-analysts	Data Science Fundamentals for Data Analysts	Databricks	4.1	15 
+"	"https://www.coursera.org/learn/data-science-fundamentals-for-data-analysts	Data Science Fundamentals for Data Analysts	Databricks	None	15
+"
+"https://www.coursera.org/learn/data-science-k-means-clustering-python	Foundations of Data Science: K-Means Clustering in Python	University of London Goldsmiths, University of London	4.7	340 
+"	"https://www.coursera.org/learn/data-science-k-means-clustering-python	Foundations of Data Science: K-Means Clustering in Python	University of London	4.7	349
+"
+"https://www.coursera.org/learn/data-science-methodology	Data Science Methodology	IBM	4.6	16,646 
+"	"https://www.coursera.org/learn/data-science-methodology	Data Science Methodology	IBM	4.6	16,691
+"
+"https://www.coursera.org/learn/data-science-project	Data Science Capstone	Johns Hopkins University	4.5	1,183 
+"	"https://www.coursera.org/learn/data-science-project	Data Science Capstone	Johns Hopkins University	4.5	1,183
+"
+"https://www.coursera.org/learn/datasciencemathskills	Data Science Math Skills	Duke University	4.5	9,593 
+"	"https://www.coursera.org/learn/datasciencemathskills	Data Science Math Skills	Duke University	4.5	9,622
+"
+"https://www.coursera.org/learn/executive-data-science-capstone	Executive Data Science Capstone	Johns Hopkins University	4.7	1,499 
+"	"https://www.coursera.org/learn/executive-data-science-capstone	Executive Data Science Capstone	Johns Hopkins University	4.7	1,499
+"
+"https://www.coursera.org/learn/genomic-data-science-project	Genomic Data Science Capstone	Johns Hopkins University	4.6	58 
+"	"https://www.coursera.org/learn/genomic-data-science-project	Genomic Data Science Capstone	Johns Hopkins University	4.5	60
+"
+"https://www.coursera.org/learn/intro-analyticthinking-datascience-datamining	Intro to Analytic Thinking, Data Science, and Data Mining	University of California, Irvine	4.0	50 
+"	"https://www.coursera.org/learn/intro-analyticthinking-datascience-datamining	Intro to Analytic Thinking, Data Science, and Data Mining	University of California, Irvine	4.0	50
+"
+"https://www.coursera.org/learn/introduction-clinical-data-science	Introduction to Clinical Data Science	University of Colorado System	4.6	297 
+"	"https://www.coursera.org/learn/introduction-clinical-data-science	Introduction to Clinical Data Science	University of Colorado System	4.6	298
+"
+"https://www.coursera.org/learn/introducton-r-programming-data-science	Introduction to R Programming for Data Science	IBM	4.6	51 
+"	"https://www.coursera.org/learn/introducton-r-programming-data-science	Introduction to R Programming for Data Science	IBM	4.7	56
+"
+"https://www.coursera.org/learn/open-source-tools-for-data-science	Tools for Data Science	IBM	4.5	22,249 
+"	"https://www.coursera.org/learn/open-source-tools-for-data-science	Tools for Data Science	IBM	4.5	22,351
+"
+"https://www.coursera.org/learn/python-for-applied-data-science-ai	Python for Data Science, AI & Development	IBM	4.6	22,923 
+"	"https://www.coursera.org/learn/python-for-applied-data-science-ai	Python for Data Science, AI & Development	IBM	4.6	23,140
+"
+"https://www.coursera.org/learn/python-project-for-data-science	Python Project for Data Science	IBM	4.5	1,053 
+"	"https://www.coursera.org/learn/python-project-for-data-science	Python Project for Data Science	IBM	4.5	1,109
+"
+"https://www.coursera.org/learn/real-life-data-science	Data Science in Real Life	Johns Hopkins University	4.4	2,254 
+"	"https://www.coursera.org/learn/real-life-data-science	Data Science in Real Life	Johns Hopkins University	4.4	2,254
+"
+"https://www.coursera.org/learn/spatial-data-science	Spatial Data Science and Applications	Yonsei University	4.4	406 
+"	"https://www.coursera.org/learn/spatial-data-science	Spatial Data Science and Applications	Yonsei University	4.4	408
+"
+"https://www.coursera.org/learn/sql-data-science	Databases and SQL for Data Science with Python	IBM	4.7	13,777 
+"	"https://www.coursera.org/learn/sql-data-science	Databases and SQL for Data Science with Python	IBM	4.7	13,831
+"
+"https://www.coursera.org/learn/sql-data-science-capstone	SQL for Data Science Capstone Project	University of California, Davis	3.8	59 
+"	"https://www.coursera.org/learn/sql-data-science-capstone	SQL for Data Science Capstone Project	University of California, Davis	None	59
+"
+"https://www.coursera.org/learn/sql-data-science-r	SQL for Data Science with R	IBM	3.8	12 
+"	"https://www.coursera.org/learn/sql-data-science-r	SQL for Data Science with R	IBM	None	14
+"
+"https://www.coursera.org/learn/sql-for-data-science	SQL for Data Science	University of California, Davis	4.6	10,485 
+"	"https://www.coursera.org/learn/sql-for-data-science	SQL for Data Science	University of California, Davis	4.6	10,599
+"
+"https://www.coursera.org/learn/statistics-for-data-science-python	Statistics for Data Science with Python	IBM	4.6	143 
+"	"https://www.coursera.org/learn/statistics-for-data-science-python	Statistics for Data Science with Python	IBM	4.6	145
+"
+"https://www.coursera.org/learn/the-data-science-of-health-informatics	The Data Science of Health Informatics	Johns Hopkins University	4.7	147 
+"	"https://www.coursera.org/learn/the-data-science-of-health-informatics	The Data Science of Health Informatics	Johns Hopkins University	4.7	147
+"
+"https://www.coursera.org/learn/what-is-datascience	What is Data Science?	IBM	4.7	48,334 
+"	"https://www.coursera.org/learn/what-is-datascience	What is Data Science? 	IBM	4.7	48,711
+"
