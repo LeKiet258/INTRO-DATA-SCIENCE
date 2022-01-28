@@ -1,0 +1,6 @@
+numpy==1.19.3
+pandas==1.1.5
+streamlit==0.83.0
+joblib==0.17.0
+scikit_learn==0.24.0
+underthesea==1.1.9
